@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ### About me
+
 Database kernel hacking.
+
 CLI lover.
 
 Currently hacking on:
@@ -9,6 +11,7 @@ Currently hacking on:
 * Performance & concurrency
 
 ### Interests
+
 * Open source
 * System programming (C/C++)
 * Database internals
