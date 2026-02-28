@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ### About me
-Database kernel hacking
+Database kernel hacking.
+CLI lover.
 
 Currently hacking on:
 * MySQL internals
