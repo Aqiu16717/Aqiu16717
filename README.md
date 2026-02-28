@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Aqiu16717/Aqiu16717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+Database kernel hacking
 
-Here are some ideas to get you started:
+Currently hacking on:
+* MySQL internals
+* Performance & concurrency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+* Open source
+* System programming (C/C++)
+* Database internals
+* Distributed systems
