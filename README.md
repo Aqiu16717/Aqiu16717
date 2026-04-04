@@ -18,3 +18,5 @@ Currently hacking on:
 * System programming (C/C++)
 * Database internals
 * Distributed systems
+
+> Wake up, Neo.
