@@ -9,6 +9,7 @@ Database kernel hacking.
 CLI lover.
 
 Currently hacking on:
+* ClickHouse internals
 * MySQL internals
 * Performance & concurrency
 
